@@ -1,1 +1,2 @@
-# NTTac Account Generator
+# NTTac Account
+ NTTacPlus 2 Account Generator
